@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: uhkarthik/flask-cicd
-  tag: "latest"
+  tag: "34777841136"
   pullPolicy: IfNotPresent
 
 service:
